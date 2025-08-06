@@ -23,7 +23,7 @@
 ### 📫 Connect with me  
 You can find me on GitHub or reach out if you want to collaborate!
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)] parsasamareh23@gmail.com
+![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) parsasamareh23@gmail.com
 
 
 ---
