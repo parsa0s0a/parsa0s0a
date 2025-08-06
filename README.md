@@ -26,5 +26,5 @@ You can find me on GitHub or reach out if you want to collaborate!
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=parsa0s0a&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
