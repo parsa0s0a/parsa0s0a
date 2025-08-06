@@ -22,7 +22,7 @@
 
 ### 📫 Connect with me  
 You can find me on GitHub or reach out if you want to collaborate!
-📧 Email: parsa@example.com
+📧 Email: parsasamareh23@gmail.com
 
 ---
 
