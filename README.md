@@ -1,8 +1,9 @@
 <h1 align="center">Hi, This is Parsa 👋</h1>
 
 <p align="center">
-  <img src="https://i.gifer.com/BHFO.gif" width="300" alt="Coding Animation" />
+  <img src="https://i.gifer.com/J4o.gif" width="480" alt="Coding GIF" />
 </p>
+
 
 ---
 
