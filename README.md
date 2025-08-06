@@ -1,9 +1,8 @@
 <h1 align="center">Hi, This is Parsa 👋</h1>
 
 <p align="center">
-  <img src="https://i.gifer.com/J4o.gif" width="800" alt="Coding GIF" />
+    <img src="https://i.gifer.com/J4o.gif" width="550" alt="Coding GIF" />
 </p>
-
 
 ---
 
@@ -15,18 +14,22 @@
 ---
 
 ### 🛠️ Languages & Tools
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p>
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Programming" width="50" />
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="50" alt="Java Icon" />
+  <img src="https://img.icons8.com/color/48/000000/python.png" width="50" alt="Python Icon"/>
+</p>
+
 
 ---
 
 ### 📫 Connect with me  
-You can find me on GitHub or reach out if you want to collaborate!
+You can find me on GitHub or reach out if you want to collaborate!  
 📧 Email: parsasamareh23@gmail.com
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parsa0s0a&show_icons=true&theme=tokyonight" alt="Parsa's GitHub Stats" />
+  <img src
+="https://github-readme-stats.vercel.app/api?username=parsa0s0a&show_icons=true&theme=tokyonight" alt="Parsa's GitHub Stats" />
 </p>
