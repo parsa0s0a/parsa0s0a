@@ -22,7 +22,8 @@
 
 ### 📫 Connect with me  
 You can find me on GitHub or reach out if you want to collaborate!
-📧 [Email Me](mailto:parsa@example.com)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parsa@example.com)
 
 ---
 
